@@ -1,4 +1,4 @@
-def mm():
+
     print("helloo")
 
 aa= mm()
